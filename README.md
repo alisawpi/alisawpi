@@ -3,7 +3,7 @@
 Below ou can find things I've worked on organized in categories😊
 
 ### Deployed projects
-- A habit and wellbeing tracking app: https://github.com/alisawpi/Wellbeing-tracker
+- A habit and wellbeing tracking app: https://wellbeing-tracker.herokuapp.com/ and repo: https://github.com/alisawpi/Wellbeing-tracker
 
 ### Working on currently
 
