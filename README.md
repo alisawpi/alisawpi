@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Below ou can find things I've worked on organized in categories😊
+
+### Deployed projects
+https://github.com/alisawpi/Wellbeing-tracker
+
+### Working on currently
+
+### Other
+- https://github.com/alisawpi/fullstack-course-frontend
+- https://github.com/alisawpi/fullstack-course-backend
+
 <!--
 **alisawpi/alisawpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
