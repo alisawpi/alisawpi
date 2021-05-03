@@ -7,6 +7,7 @@ Below ou can find things I've worked on organized in categories😊
 
 ### Working on currently
 
+
 ### Other
 - Frontend stuff for Helsinki University's Fullstack course: https://github.com/alisawpi/fullstack-course-frontend
 - Backend stuff for Helsinki University's Fullstack course: https://github.com/alisawpi/fullstack-course-backend
