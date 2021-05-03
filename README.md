@@ -3,13 +3,13 @@
 Below ou can find things I've worked on organized in categories😊
 
 ### Deployed projects
-https://github.com/alisawpi/Wellbeing-tracker
+- A habit and wellbeing tracking app: https://github.com/alisawpi/Wellbeing-tracker
 
 ### Working on currently
 
 ### Other
-- https://github.com/alisawpi/fullstack-course-frontend
-- https://github.com/alisawpi/fullstack-course-backend
+- Frontend stuff for Helsinki University's Fullstack course: https://github.com/alisawpi/fullstack-course-frontend
+- Backend stuff for Helsinki University's Fullstack course: https://github.com/alisawpi/fullstack-course-backend
 
 <!--
 **alisawpi/alisawpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
