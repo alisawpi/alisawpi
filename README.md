@@ -3,9 +3,9 @@
 Below you can find things I've worked on organized in categories😊
 
 ### Working on currently
-- A recipe app where user's can find, create, rate and save recipes.
-- Frontend:  https://github.com/alisawpi/Recipe-Book-frontend and Backend: https://github.com/alisawpi/Recipe-Book-backend
-  Developing with TypeScript, React, BootStrap, HTML5, SCSS, Express, MongoDB and Mongoose. 
+- A recipe app where user's can find, create, rate and save recipes.  
+Frontend:  https://github.com/alisawpi/Recipe-Book-frontend and Backend: https://github.com/alisawpi/Recipe-Book-backend  
+Developing with TypeScript, React, BootStrap, HTML5, SCSS, Express, MongoDB and Mongoose. 
 
 ### Deployed projects
 - A habit and wellbeing tracking app: https://wellbeing-tracker.herokuapp.com/ and repo: https://github.com/alisawpi/Wellbeing-tracker. 
