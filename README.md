@@ -3,7 +3,7 @@
 Below you can find things I've worked on organized in categories😊
 
 ### Working on currently
-- A recipe app where user's can find, create, rate and save recipes.  
+- A recipe app where users can find, create, rate and save recipes.  
 Frontend:  https://github.com/alisawpi/Recipe-Book-frontend and Backend: https://github.com/alisawpi/Recipe-Book-backend  
 Developing with TypeScript, React, BootStrap, HTML5, SCSS, Express, MongoDB and Mongoose. 
 
